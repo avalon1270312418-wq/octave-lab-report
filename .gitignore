@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+/.na1-work/
+/.octave-lab-*/
+/NA1_Octave/
+/*_完成*/
+/*_部分完成*/
+/*_报告待回填*/
+*.doc
+*.docx
+*.dotx
+*.zip
